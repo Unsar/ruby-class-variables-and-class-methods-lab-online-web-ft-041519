@@ -18,5 +18,7 @@ def song=(name, artist, genre)
    @artist
    @genre
  end
+ 
+ @@count = 1 
  end
  
