@@ -25,6 +25,6 @@ def initialize
   @@count+=1
 end
 
-Song.count
+def self.count
  end
  
