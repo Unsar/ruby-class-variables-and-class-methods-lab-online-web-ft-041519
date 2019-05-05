@@ -12,6 +12,8 @@ def initialize (song_name, artist, genre)
   @@artist << artist
   @@genre << genre
 end
+
+def 
 end
 
  
