@@ -20,7 +20,8 @@ def song=(name, artist, genre)
  end
  
  @@count = 0
-def self.count
+def initialize
+  self.count
   @@count
 end
 Song.count
