@@ -25,7 +25,9 @@ def self.genres
   @@genres.uniq!
 end
 
-def 
+def genre_count
+  genre_count=[]
+  
 end
  
  
