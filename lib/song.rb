@@ -23,5 +23,6 @@ def song=(name, artist, genre)
 def self.count
   @@count
 end
+Song.count
  end
  
