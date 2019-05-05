@@ -20,9 +20,11 @@ def song=(name, artist, genre)
  end
  
  @@count = 0
+
 def initialize
   @@count+=1
 end
+
 Song.count
  end
  
