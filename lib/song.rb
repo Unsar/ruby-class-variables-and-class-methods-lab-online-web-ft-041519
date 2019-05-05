@@ -7,4 +7,7 @@ class Song
    @genre=genre
 end
 
-def song=()
+def song=(name, artist, genre)
+    @name=name
+   @artist=artist
+   @genre=genre
