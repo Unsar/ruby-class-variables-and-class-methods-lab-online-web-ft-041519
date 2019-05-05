@@ -28,7 +28,7 @@ end
 def genre_count
   genre_count=[]
   @@genres.each do |genre|
-    
+    genre_count+=1 
 end
  
  
